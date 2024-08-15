@@ -1,12 +1,10 @@
-# Group 26 Final Project
+# PLNR
 
-Group Members:
+Contributors:
 1. Gerrell Bones
 2. Dylan Hawryluk
-3. Will Reed
+3. William Reed
 4. Ethan Curtis 
-
-# PLNR
 
 ## Table of Contents
 
@@ -112,12 +110,4 @@ https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNrMW1wYmR4MXJxM2RvMWh6dHkwamx
 Unit 10 Milestone Video:
 
 [![Link to YouTube video.](http://img.youtube.com/vi/oZm5kLYrJ5w/0.jpg)](https://www.youtube.com/embed/oZm5kLYrJ5w)
-### Models
 
-[Add table of models]
-
-### Networking
-
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
